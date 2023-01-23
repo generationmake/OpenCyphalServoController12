@@ -351,7 +351,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "OpenCyphalPicoBase.kicad_pro",
+    "filename": "OpenCyphalServoController12.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -436,6 +436,10 @@
     [
       "00000000-0000-0000-0000-00005ed92f9c",
       "MCP2515"
+    ],
+    [
+      "bf65e231-37af-4858-b53c-5545e8a6f0b6",
+      "Power"
     ]
   ],
   "text_variables": {}
