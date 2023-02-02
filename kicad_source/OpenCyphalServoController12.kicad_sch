@@ -6,7 +6,7 @@
 
   (title_block
     (title "OpenCyphalServoController12")
-    (date "2023-01-23")
+    (date "2023-02-03")
     (rev "0.1")
     (company "generationmake")
   )
@@ -2535,7 +2535,7 @@
     (property "Reference" "R17" (id 0) (at 245.3386 69.9516 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100k" (id 1) (at 245.3386 72.263 0)
+    (property "Value" "190k" (id 1) (at 245.3386 72.263 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 243.84 74.93 0)
@@ -3180,7 +3180,7 @@
     (property "Reference" "R16" (id 0) (at 217.3986 39.4716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10k" (id 1) (at 217.3986 41.783 0)
+    (property "Value" "100k" (id 1) (at 217.3986 41.783 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 215.9 44.45 0)
@@ -3511,7 +3511,7 @@
     (property "Reference" "R21" (id 0) (at 256.7686 39.4716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10k" (id 1) (at 256.7686 41.783 0)
+    (property "Value" "100k" (id 1) (at 256.7686 41.783 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 255.27 44.45 0)
@@ -4067,10 +4067,10 @@
       (reference "R15") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/98af084b-1d38-47e5-ba4f-133aa91a9cd0"
-      (reference "R16") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R16") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000062580a99"
-      (reference "R17") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R17") (unit 1) (value "190k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000062580f1d"
       (reference "R18") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -4082,7 +4082,7 @@
       (reference "R20") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/ff297292-bcb8-44b1-8fc4-6cf1ba8617ce"
-      (reference "R21") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R21") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-0000625730ad"
       (reference "R22") (unit 1) (value "3k3") (footprint "Resistor_SMD:R_0603_1608Metric")
