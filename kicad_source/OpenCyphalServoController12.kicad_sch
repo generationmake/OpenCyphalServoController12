@@ -3826,6 +3826,12 @@
     (path "/bf65e231-37af-4858-b53c-5545e8a6f0b6/7ed8ef7e-3eea-43fb-aa5e-26cca4042e68"
       (reference "#PWR087") (unit 1) (value "GND") (footprint "")
     )
+    (path "/bf65e231-37af-4858-b53c-5545e8a6f0b6/05fcb3a5-8ea0-4d64-9c90-34d1c1663e10"
+      (reference "#PWR088") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/bf65e231-37af-4858-b53c-5545e8a6f0b6/24ed213a-57e5-433e-b952-d136624956a1"
+      (reference "#PWR089") (unit 1) (value "GND") (footprint "")
+    )
     (path "/bf65e231-37af-4858-b53c-5545e8a6f0b6/9718687d-cdf5-4a71-af2d-2e0b66b6fa30"
       (reference "#PWR090") (unit 1) (value "VCC") (footprint "")
     )
@@ -3867,6 +3873,12 @@
     )
     (path "/bf65e231-37af-4858-b53c-5545e8a6f0b6/1eabf47e-f05c-4412-8ff9-016299017778"
       (reference "#PWR0103") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/bf65e231-37af-4858-b53c-5545e8a6f0b6/61a5d994-7a64-484d-9229-3cf5909bfc4e"
+      (reference "#PWR0104") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/bf65e231-37af-4858-b53c-5545e8a6f0b6/070ee165-0fbd-417e-8483-c799f4d0a2b5"
+      (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062524b56"
       (reference "C1") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -3922,6 +3934,9 @@
     (path "/bf65e231-37af-4858-b53c-5545e8a6f0b6/d079dd89-f453-467a-bcd2-c684b6b9845c"
       (reference "C18") (unit 1) (value "1000 uF / 10 V") (footprint "Capacitor_SMD:CP_Elec_8x10")
     )
+    (path "/bf65e231-37af-4858-b53c-5545e8a6f0b6/95fc517a-2c49-4dd2-98fd-9872bc597027"
+      (reference "C19") (unit 1) (value "47uF 10V") (footprint "Capacitor_SMD:C_1210_3225Metric")
+    )
     (path "/bf65e231-37af-4858-b53c-5545e8a6f0b6/56a10a95-bfe6-4198-a885-eb1c51ed4a80"
       (reference "C20") (unit 1) (value "47uF 10V") (footprint "Capacitor_SMD:C_1210_3225Metric")
     )
@@ -3933,6 +3948,9 @@
     )
     (path "/bf65e231-37af-4858-b53c-5545e8a6f0b6/4b87a511-f1ff-403b-82bb-48a1b6d84d3c"
       (reference "C23") (unit 1) (value "47uF 10V") (footprint "Capacitor_SMD:C_1210_3225Metric")
+    )
+    (path "/bf65e231-37af-4858-b53c-5545e8a6f0b6/fbad5a85-9b95-4728-87a9-6fcc7a85264a"
+      (reference "C24") (unit 1) (value "47uF 10V") (footprint "Capacitor_SMD:C_1210_3225Metric")
     )
     (path "/00000000-0000-0000-0000-00006250ded9"
       (reference "CN1") (unit 1) (value "SM04B-SRSS-TB") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
